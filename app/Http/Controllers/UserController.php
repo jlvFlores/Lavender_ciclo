@@ -6,17 +6,17 @@ use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
-    public function index()
+    public funtion index()
     {
 
     }
     
-    public function store()
+    public funtion index()
     {
         
     }
 
-    public function destroy()
+    public funtion index()
     {
         
     }
